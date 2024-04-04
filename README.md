@@ -29,6 +29,12 @@ Hetal / Prateek
 8.  
 9. 
 
+Meeting 4 April 2024  with Josh
+- Asked about Software we can used for project 
+- Asked question related to Kobo toolbox (Open Source Software)
+- Dennis asked about Trail Data Collection
+- Asked about Github account for website
+- Asked Question related to are we are going to create new website and we are going to modify the present website page
 
 
 
