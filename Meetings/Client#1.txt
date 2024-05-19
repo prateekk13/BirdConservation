@@ -1,0 +1,357 @@
+
+Richer, Josh (MECP)2:00 PM
+Ohh good.
+OK.
+Umm yeah, yeah.
+
+Prateek Kalshan2:00 PM
+So.
+
+Richer, Josh (MECP)2:00 PM
+Let's dive into it.
+
+Prateek Kalshan2:00 PM
+Yeah, they just had to.
+Add some questions regarding the things that we've been doing.
+
+Richer, Josh (MECP)2:00 PM
+Trip.
+
+Prateek Kalshan2:00 PM
+And.
+The first thing is that we are allowed to use the ArcGIS online, right?
+As we have agreed the last time.
+
+Richer, Josh (MECP)2:00 PM
+Yep, Yep.
+
+Prateek Kalshan2:00 PM
+Yeah.
+
+Richer, Josh (MECP)2:00 PM
+I think that works. Umm.
+Yes.
+Yeah, that's good.
+
+Prateek Kalshan2:01 PM
+And I'm also trying, we are also trying to tell you the number also test so that FBCC can reduce the cost.
+
+
+Is maybe if we talk with Kevin Rabjohn about getting an account specifically for the fbcc.
+PC umm.
+And you guys doing your work in there for now, but that doesn't, that doesn't really matter right now, but just as an option, you guys can just bring everything over, but.
+
+Prateek Kalshan2:02 PM
+Yeah.
+Yeah.
+Uh, yeah, but still the can.
+I just want to confirm it with you.
+It's OK at this point.
+We are working on at this online and we we have a good to proceed with that, right.
+
+Richer, Josh (MECP)2:03 PM
+Yep.
+Yep, Yep, that's perfect with me.
+Yeah, go ahead.
+
+Prateek Kalshan2:03 PM
+OK.
+
+Richer, Josh (MECP)2:03 PM
+Yeah.
+
+Prateek Kalshan2:03 PM
+OK, send that then again and can I need your help with the.
+
+Richer, Josh (MECP)2:03 PM
+Sure.
+
+
+Then I'll look into that and I'll get back to you guys on that.
+
+Prateek Kalshan2:05 PM
+OK.
+And I am and try to make it as early as Poss move because yeah, I think this is gonna be last for four more weeks.
+The project?
+
+Richer, Josh (MECP)2:05 PM
+OK.
+Ohh I see.
+
+Prateek Kalshan2:05 PM
+Yeah. Umm.
+
+Richer, Josh (MECP)2:05 PM
+Yes.
+OK Ohh meeting with me I mean.
+
+Prateek Kalshan2:05 PM
+Yeah, and no.
+
+Richer, Josh (MECP)2:05 PM
+OK.
+
+Prateek Kalshan2:05 PM
+And like the project, we are only allowed to have work on the projects for five weeks in total.
+
+Richer, Josh (MECP)2:06 PM
+Ohh yeah, OK. OK.
+
+Prateek Kalshan2:06 PM
+And this was, yeah.
+
+Richer, Josh (MECP)2:06 PM
+And then it's done.
+
+Prateek Kalshan2:06 PM
+Umm.
+
+
+That one's gonna be pretty, pretty hectic.
+I would also consider windowed areas.
+Umm, so we know.
+Obviously, the entire building isn't windowed, but small portions of it are, so that would be another factor that I would say is negative just for reflectance and then.
+Yeah, I don't think there is anything else that's too, I mean possibly traffic, whether that's vehicle or human traffic.
+
+Prateek Kalshan2:08 PM
+And that's they're cool.
+
+Richer, Josh (MECP)2:08 PM
+Umm, I would.
+I would consider those as well.
+
+Prateek Kalshan2:08 PM
+Kiss all Diversity using the FBCC data for the boss strike right for the word window collision.
+Right.
+
+Richer, Josh (MECP)2:09 PM
+Yep.
+Yep, exactly.
+
+Prateek Kalshan2:09 PM
+OK.
+And for the noise, we can consider traffic noises.
+And transportation means noises, right?
+
+Richer, Josh (MECP)2:09 PM
+Sure.
+
+Prateek Kalshan2:09 PM
+This sounds very nice.
+
+
+Richer, Josh (MECP)2:10 PM
+But I wouldn't make it mandatory that it's first and last name, just a username or something like that would be would be effective.
+
+Prateek Kalshan2:10 PM
+OK.
+So just an open application that anyone can collect data.
+
+Richer, Josh (MECP)2:10 PM
+Yes.
+Yep, I think that would be ideal.
+
+Prateek Kalshan2:10 PM
+And and I have a filtered out the data from the I naturalist and around and there are around 90 two birds uh and that are being commonly found here you need that.
+
+Richer, Josh (MECP)2:11 PM
+Sure.
+
+Prateek Kalshan2:11 PM
+So that would be it, right?
+There is nothing else that we have to consider while making a form, right?
+
+Richer, Josh (MECP)2:11 PM
+No, I think that it's a.
+It's any any bird species that are in that area are great to note.
+But yeah, there's nothing else we don't have to worry about.
+Any any mammals or anything like that outside of the outside of bird species, even plant species, I don't think really matter unless it's a factor for your spatial analysis.
+
+Prateek Kalshan2:11 PM
+Yeah, like there are.
+Would there be any chance that the members of the FBCC have to collect any but speech is other than what is being already connected in the inaturalist?
+
+
+You can.
+I'm fine with you using any existing template.
+The the hard thing is that unfortunately we can't get you access to the FBCC website, just it's it's more of a pain to go that route.
+So unfortunately we can't change anything in there.
+But I mean, yeah, you you have free creative freedom on that front.
+Uhm, if you take a look at, I can't remember if I sent it to you, but I'll send it in the chat right now.
+Umm.
+Let's see here.
+Umm.
+If you make it somewhat similar to the to the current site.
+
+Prateek Kalshan2:13 PM
+Yeah.
+
+Richer, Josh (MECP)2:13 PM
+Umm, I think that that would that would be ideal, but ultimately we just wanna be able to see that you can host a web map there.
+
+Prateek Kalshan2:13 PM
+The.
+
+Richer, Josh (MECP)2:13 PM
+Umm.
+And you know any other any other pertinent information that's gonna help?
+
+
+We should be looking at creating an FBCC I naturalist account and then the same with GitHub.
+So those are things that will have to go to the board and or to the committee and and talk to them about.
+
+Prateek Kalshan2:14 PM
+Yeah.
+And I naturalist second like as I mentioned it should be if possible it should be like all as possible and it should have made at least 10 or 20 observation.
+
+Richer, Josh (MECP)2:15 PM
+OK. OK.
+So yeah, get to at least get some data in there.
+
+Prateek Kalshan2:15 PM
+You and it would be better if you if you can reply as soon as possible about this, because I started working on that call and it is breaking and yeah, that's taking them a lot of time.
+
+Richer, Josh (MECP)2:15 PM
+Yep.
+
+Prateek Kalshan2:15 PM
+So is this the and currently I'm working with some web tokens rather than using API.
+We only get the application then I can use that actually pays from them.
+
+Richer, Josh (MECP)2:15 PM
+OK.
+OK, perfect.
+So then yeah, I'll check with them this week and then, uh, with any luck, I can send you out an email by the end of the week just confirming or hopefully confirming that we're good to go with this.
+
+Prateek Kalshan2:15 PM
+OK.
+
+
+Prateek Kalshan2:17 PM
+So there are some data which is not matching.
+So which data should we?
+Consider the data which we collected over the data which is already there.
+
+Richer, Josh (MECP)2:17 PM
+Hmm.
+OK.
+Was this and we're I sorry I missed it.
+Where did you get the original data from?
+Is it the stuff that I sent over?
+
+Prateek Kalshan2:17 PM
+More.
+Kendra give us some data in another course.
+
+Richer, Josh (MECP)2:17 PM
+Ohh, OK, OK.
+
+Prateek Kalshan2:17 PM
+Well, there is some data related to trails in that there is one feature layer.
+
+Richer, Josh (MECP)2:17 PM
+OK.
+
+Prateek Kalshan2:17 PM
+If you want, I can share it like I can share my screen and show it to you.
+
+Richer, Josh (MECP)2:17 PM
+Yeah.
+
+
+And I do know that if we're looking at the main building, umm, those trails and there are actually they're paved trails, so they do still exist.
+Umm, so yes, I would.
+I would include those and just put the put the two together.
+So if you've already got like, I see that you've got some in the Northeast section that are already.
+Already done by you guys.
+I would just expand it to include the other areas too.
+So yeah, Yep, I and it looks like you guys did a did a good amount in there as well, so.
+
+Prateek Kalshan2:19 PM
+But should we merge all the data that we collected and that kinda provided?
+
+Richer, Josh (MECP)2:19 PM
+I think so, yes. Yep.
+Yeah, I think that's I think that's good.
+Umm, but it looks good.
+It looks good that it's good that you guys went out as well and and collected that umm.
+
+Prateek Kalshan2:20 PM
+Yes, I think that's it for now.
+And then we had to go, go out.
+I think there are some data available for the spatial analysis part as well.
+We just have to add the data that we don't have now and we need to collect that as as soon as possible.
+
+
+Yeah.
+
+Richer, Josh (MECP)2:20 PM
+Yeah.
+
+Prateek Kalshan2:20 PM
+And is there any other data or FBCC?
+Which is it helpful for us?
+
+Richer, Josh (MECP)2:20 PM
+Not that I know of.
+If there's anything else, it could because I believe that you you guys were added to that, that FBCC group in our JS online.
+So anything else, which I believe you guys already pulled from there?
+Umm.
+Was sitting in that in that group, so everything else is inaturalist or E bird?
+Umm.
+Data, which saw of course it's open source minus species at risk.
+
+Prateek Kalshan2:20 PM
+OK.
+OK.
+
+Richer, Josh (MECP)2:21 PM
+Umm.
+
+Prateek Kalshan2:21 PM
+Uh, could you?
+Thank you so much for your time and uh information you have provided us and we will be sharing you the link for the next meeting by today only, OK.
+
+Richer, Josh (MECP)2:21 PM
+Yep, Yep.
+If you guys send send that in invitation over then then we'll be good to go.
+
+Prateek Kalshan2:21 PM
+OK.
+My next day you would be I think we would be able to show you some result results as well.
+
+Richer, Josh (MECP)2:21 PM
+Great.
+
+Prateek Kalshan2:21 PM
+Yeah, sure.
+
+Richer, Josh (MECP)2:21 PM
+Yeah.
+Yeah.
+No.
+And and like I said, I will try and get that information, but by the end of this week, umm and and get that back to you.
+
+Prateek Kalshan2:21 PM
+OK.
+OK. OK.
+Thank you so much.
+
+Richer, Josh (MECP)2:21 PM
+Perfect.
+
+Prateek Kalshan2:21 PM
+Thank you so much for the.
+
+Richer, Josh (MECP)2:21 PM
+Alright, excellent.
+No problem, guys.
+You guys take care.
+
+Prateek Kalshan2:21 PM
+Thank you.
+Thank you. Bye.
+
+Richer, Josh (MECP)2:21 PM
+Alright, bye.
+
